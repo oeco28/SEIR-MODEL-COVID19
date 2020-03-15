@@ -1,4 +1,4 @@
-# Description of SEIR-MODEL to try to understand the epidemic in WA.
+# Description of SEIR-MODEL to try to understand the SARS-CoV-2 epidemic.
 
 This attempt was born out of curiosity of what would be expected for Pullman, WA were I reside. I have since expanded it in collaboration with Ben Kerr
 
