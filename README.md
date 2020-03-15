@@ -9,3 +9,5 @@ With the simple model you can already see what the effect of including mortality
 At the end of the document you can see the first lay out for a structured model. This model was modified to be able to change contact rates for each player individually and the most up to date version of the model can be found at [Ben Kerr's SEIR Risk](https://github.com/evokerr/SEIR_Risk_Model/)
 
 I apologize for any typos, I appreciate any feedback.
+
+An update and cleaner version of this code and explanation for a more general case will be posted sometime soon. We are trying to evaluate other scenarios
