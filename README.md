@@ -11,3 +11,5 @@ A barebone code for a couple of general cases (not all the scenarios we have loo
 I apologize for any typos, I appreciate any feedback.
 
 An update and cleaner version of this code and explanation for a more general case will be posted sometime soon. We are trying to evaluate other scenarios
+
+I have included the code for examining the effect of mitigation in the structured model as well as examining some scenarios of strong implementation and relaxation of measures in time (mitigation_scenarios.R).
