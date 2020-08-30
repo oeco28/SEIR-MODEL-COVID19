@@ -15,3 +15,5 @@ An update and cleaner version of this code and explanation for a more general ca
 I have included the code for examining the effect of mitigation in the structured model as well as examining some scenarios of strong implementation and relaxation of measures in time (mitigation_scenarios.R).
 
 For a network implementation of these models please visit [Ryan McGee's github](https://github.com/ryansmcgee/seirsplus) for a wonderful package in python that facilitates a more realistic investigation of scenarios.
+
+The document "SEIR_covid19_Pullman_v4.pdf" contains specific predictions about Pullman. These were done considering a conservative scenario. For a more risky scenario people can refer to document "SEIR_covid19_Pullman.pdf" (which was the original set of analyses I performed).
